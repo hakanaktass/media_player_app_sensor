@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288298487965",
+    "project_id": "mediaplayerproject-8a4fb",
+    "storage_bucket": "mediaplayerproject-8a4fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288298487965:android:8380d7aad156a14bbac474",
+        "android_client_info": {
+          "package_name": "com.hakanaktas.mediaplayerproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288298487965-ete4gmetql4v0keeu2o0b79ss5aj8gb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7hjuN1vtv_9oPIY0hsmgQQNo8pZetnsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288298487965-ete4gmetql4v0keeu2o0b79ss5aj8gb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
